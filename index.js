@@ -1,3 +1,3 @@
 $(document).ready(function(){
-	alert("nuevo alert");
+	alert("nuevo alert modificado");
 });
